@@ -1,6 +1,6 @@
 const app = document.getElementById("root");
 const logo = document.createElement("img");
-logo.src = "/logo.png";
+logo.src = "logo.png";
 app.appendChild(logo);
 logo.className = "logo";
 
